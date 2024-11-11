@@ -6,14 +6,18 @@
 
 ## Table of Contents
 
-1. [Installation](#installation)
+1. [Overview](#overview)
+2. [Installation](#installation)
    - [Clone the Repository](#clone-the-repository)
-2. [Program Execution](#program-execution)
+3. [Program Execution](#program-execution)
    - [Run the Application](#run-the-application)
-3. [DockerHub](#dockerhub)
+4. [DockerHub](#dockerhub)
    - [DockerHub Repository](#dockerhub-repository)
-4. [Evidences](#evidences)
+5. [Evidences](#evidences)
 
+## Overview
+
+The GO - Kenya Luna project is a simple web application built with the Go programming language. This application demonstrates the basics of creating a web server in Go, responding to HTTP requests, and displaying a "Hello, World!" message. 
 ## Install Dependencies
 
 No external dependencies are required for this project. Ensure you have Go installed. You can download it from [https://golang.org/dl/](https://golang.org/dl/).
