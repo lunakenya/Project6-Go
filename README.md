@@ -20,7 +20,7 @@ go mod init Go
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/lunakenya/Proyect5-TypeScript.git
+git clone https://github.com/lunakenya/Project6-Go.git
 ```
 
 ## Program Execution
