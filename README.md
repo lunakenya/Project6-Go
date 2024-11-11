@@ -14,8 +14,17 @@
    - [DockerHub Repository](#dockerhub-repository)
 4. [Evidences](#evidences)
 
+## Install Dependencies
+
+No external dependencies are required for this project. Ensure you have Go installed. You can download it from [https://golang.org/dl/](https://golang.org/dl/).
+
 ## Installation
 go mod init Go
+go run main.go
+
+## Start Server
+
+Run go run main.go to start the Go server. Navigate to http://localhost:8089/ (or the port you've set). The application will respond with "¡Hola Mundo!".
 
 ### Clone the Repository
 
@@ -37,6 +46,9 @@ go run main.go
 Docker Pull Command
 ```sh
 docker pull luna28kenya412/my-go-app
+```
+```sh
+docker run -d -p 8089:8089 --name proyecto-go luna28kenya412/my-go-app
 ```
 
 ## Evidences
