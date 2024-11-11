@@ -1,0 +1,5 @@
+# Go build artifacts
+/my-go-web-app
+*.exe
+*.out
+*.test
