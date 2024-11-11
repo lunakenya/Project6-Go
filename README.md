@@ -32,11 +32,11 @@ go run main.go
 ## DockerHub
 ### DockerHub Repository
 
-[https://hub.docker.com/r/luna28kenya412/my-react-app](https://hub.docker.com/r/luna28kenya412/my-react-app)
+[https://hub.docker.com/r/luna28kenya412/my-go-app](https://hub.docker.com/r/luna28kenya412/my-go-app)
 
 Docker Pull Command
 ```sh
-docker pull luna28kenya412/my-react-app
+docker pull luna28kenya412/my-go-app
 ```
 
 ## Evidences
